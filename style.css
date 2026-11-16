@@ -24,3 +24,21 @@ button {
 button:hover {
     background-color: darkblue;
 }
+
+.about-me {
+    text-align: center;
+    margin: 40px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #d5d2d0;
+}
+
+.about-me h2 {
+    color: #333;
+}
+
+.about-me p {
+    color: #555;
+    line-height: 1.6;
+}
+
