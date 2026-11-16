@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
